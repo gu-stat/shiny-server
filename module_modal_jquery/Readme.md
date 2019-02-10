@@ -1,0 +1,3 @@
+This Shiny application uses modules to add and remove an indefinite (unknown) number of interactions and the variables for each interaction (also indefinite), all within a modal frame, and with some jQuery code to account for error messages. It also saves the output into a dataframe.
+
+A working example can be seen here [shiny.ogustavo.com/module\_modal\_jquery](https://shiny.ogustavo.com/module_modal_jquery/).
